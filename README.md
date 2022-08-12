@@ -7,12 +7,12 @@ Tools used:
 * MapReduce through MRJob
 * Python libraries such as NLTK, Pandas, Numpy, PyMongo
 
-How to run:
+How to run: \n
 *Should be able to open up the following files via Visual Studio Code 
 *Everything should be there to look at, might be difficult to run as I used a MongoDB connection
 
 
-NOTES:
+NOTES: \n
 *Text files are to write the wanted data for the parts
 *Jupiter Notebook is the main place to start
 *Part A will include a python script this is the MapReduce program
