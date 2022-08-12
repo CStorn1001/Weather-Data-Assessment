@@ -13,7 +13,7 @@
 <ul>
   <li>Should be able to open up the following files via Visual Studio Code </li.
   <li>Everything should be there to look at, might be difficult to run as I used a MongoDB connection</li>
-
+</ul>
 
 <p> NOTES: </p>
 <ul>
