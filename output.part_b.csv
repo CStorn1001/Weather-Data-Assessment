@@ -1,0 +1,8 @@
+,0,1,2
+ brisbane ,"('partly_sunny', 16)","('foggy', 10)","('ground_fog', 10)"
+ canberra ,"('mostly_cloudy', 8)","('thunderstorm', 6)","('cloudy', 6)"
+ darwin ,"('partly_sunny', 10)","('clear', 8)","('cloudy', 8)"
+ hobart ,"('cloudy', 12)","('mostly_clear', 8)","('mostly_sunny', 6)"
+ melbourne ,"('mostly_cloudy', 48)",,
+ perth ,"('cloudy', 10)","('light_rain_shower', 10)","('rain_shower', 8)"
+ sydney ,"('clear', 18)","('cloudy', 14)","('sunny', 8)"
