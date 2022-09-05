@@ -1,5 +1,4 @@
-# Weather-Data-Assessment
-Cuusoo Technical Assessment
+# Weather-Data-Analysis
 
 <p> Tools used: </p>
 <ul>
